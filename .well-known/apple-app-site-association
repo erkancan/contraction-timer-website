@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "TEAMID.com.erkancan.Count-the-kicks",
+        "paths": [
+          "/clip/*",
+          "/join/*"
+        ]
+      }
+    ]
+  },
+  "appclips": {
+    "apps": [
+      "TEAMID.com.erkancan.Count-the-kicks.Clip"
+    ]
+  }
+}
